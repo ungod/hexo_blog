@@ -16,7 +16,7 @@ More info: [Writing](https://hexo.io/docs/writing.html)
 ### Run server
 
 ``` bash
-$ hexo server 1112222
+$ hexo server Hei
 ```
 
 More info: [Server](https://hexo.io/docs/server.html)
